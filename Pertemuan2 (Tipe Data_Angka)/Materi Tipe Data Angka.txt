@@ -4,6 +4,9 @@ akurat sampai 15 digit
 angka dengan desimal
 3.14, 0.5, 100.00
 desimal kalau di jumlahkan kadang gak akurat di javascript
+contoh 
+0.3 + 0.7 = 1
+0.2 + 0.1 = 0.3000000004
 
 eksponen
 123e5 // 12300000
@@ -11,15 +14,18 @@ eksponen
 
 bilangan negatif
 -2
+
+jangan pernah nulis angka depannya 0 dahulu karena menganggapan angka tersebut bilangan oktal
 bilangan oktal = 022 
 menganggap bahwa 0 bilang oktal dari 0 sampai 7
 
+contoh bilangan hexsadesimal (0x)
 0xff -> 225 = bilangan heksa desimal 16 -> 0-9-A-F
 
 angka spesial
-infinity -> 2/0 
--infinity -> -2/0
-Nan (not a Number)-> 0/0 atau 100 / "apel"
+infinity -> 2/0 = infinity
+-infinity -> -2/0 = infinity
+NaN (not a Number)-> 0/0 atau 100 / "apel" = NaN
 
 wajib diperhatikan
 javascript bisa membagi angka dengan string kalau dalamnya berupa angka
