@@ -1,0 +1,24 @@
+array secara umum adalah
+susunan otomatis dari objek objek yang serupa
+
+array dalam pemrograman adalah
+tipe data yang digunakan untuk mendeskripsikan kumpulan elemen( nilai atau variabel) yang tiap tiap elemennya memiliki index
+
+array adalah variabel yang lebih sakti (bisa menampung lebih dari satu nilai)
+
+kenapa array?
+mempermudah pengelolaan nilai / value /data
+ - penelusuran dan pencarian
+manajemen memori
+
+array 
+variabel jamak, yang mempunya banyak elemen dan diacu dengan nama yang sama
+kumpulan pasangan key dan nilai / key and value pair
+key adalah index pada array dengan tipe integer yang dimulai dari o
+array pada javascript bertipe objek
+array pada javascript memiliki fungsi / method lenght untuk menghitung jumlah elemen di dalamnya
+* elemen pada array boleh memiliki tipe data yang berbeda
+
+key and value pair - membuat array
+key = index
+value = elemen atau isi dari arraynya

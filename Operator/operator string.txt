@@ -1,0 +1,16 @@
+operator string
+untuk menggabungkan lebih dari 2 string (+)
+
+contoh
+var a = "fahmi";
+var b = "tabitha";
+a + b -> "fahmitabitha" 
+kalau mau ada spasi
+a + " " + b ->"fahmi tabitha" 
+
+kalau ada kasus penggabungan string dengan angka
+jika ada string maka operator + jadi string
+10 + "10" -> "1010" dan bentuknya adalah string
+"10" + 10 -> "1010" dan bentuknya adalah string
+10 + 10 + "10" -> "2010" dan bentuknya adalah string
+"10" + 10 + 10 -> "101010" dan bentuknya adalah string

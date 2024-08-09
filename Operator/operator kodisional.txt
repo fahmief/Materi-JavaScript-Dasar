@@ -1,0 +1,9 @@
+(kondisi) ? benar : Salah atau (kondisi) ? true : false
+contoh
+x = 12
+(x % 2 == 0) ? "genap" : "ganjil"
+maka jawabanya adalah = "genap" karena true
+jika 
+x = 10
+(x % 3 == 0) ? "pinter" : "goblok"
+maka jawabanya adalah = "goblok" karena false

@@ -1,0 +1,14 @@
+rekursif
+sebuah fungsi yang memanggil dirinya sendiri
+
+harus berakhri dan menghasilkan nilai
+
+base case
+kondisi akhir dari rekursif yang menghasilkan nilai
+
+rekursif cocok buat untuk faktorial sebuah nilai
+rekursif menggantikan looping
+rekursif bisa dibuat fibonacci
+pencarian dan penulusuran pada struktur list dan tree
+bahasa pemrograman yang tidak memiliki pengulangan
+contoh haskell,erlang,prolog, dll

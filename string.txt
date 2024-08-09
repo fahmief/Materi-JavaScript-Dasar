@@ -1,0 +1,28 @@
+string pada javascript ada 2 yaitu "" dan ''
+
+tapi ada masalah ketika ada 3 lebih dari kutip tersebut
+contoh
+""gerakan sampah" hari pada jum'at" -> ini error
+'"gerakan sampah" hari pada jum'at' -> ini juga error
+
+cara menyelesaikan nya dengan escape carakter (\") atau (\')
+contoh
+'"gerakan sampah" hari pada jum\'at' -> benar
+"\"gerakan sampah\" hari pada jum'at"
+
+escape karakter
+\0 = karakter null
+\' = '
+\" = "
+\\ = \
+\n = new line/baris baru
+\t = tab
+\b = backspace
+\uXXXX(urutan angka unicode) = unicode
+
+
+.length -> untuk mengcek jumlah karakter pada suatu kalimat
+spasi juga akan ikut di itung saat mengcek jumlah karakter
+contoh
+var nama = "fahmi"
+nama.length -> 5

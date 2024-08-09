@@ -1,0 +1,9 @@
+ada fungsi yaitu undefined dan null
+
+contoh undefined
+var x 
+variabel nya belum diberi isi jadi variabel x undefined
+
+contoh null
+var x = null;
+variabel x di isi oleh kata kata "null"

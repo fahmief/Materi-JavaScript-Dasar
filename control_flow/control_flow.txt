@@ -1,0 +1,12 @@
+alur kendali
+dari atas ke bawah atauu dari kiri ke kanan
+
+alur kendali yang berbeda
+pengulangan 
+loop /iteration
+for , while , do while
+
+alur kendali yang berbeda
+pengkondisian
+percabangan
+if, if else , if else if else, switch

@@ -1,0 +1,28 @@
+bit/binary digit = satuan terkecil dari data yang ada didalam komputer kita
+
+nilainya cuma ada 1(hidup) dan 0 (mati)
+
+tipe data ada 6 di javasript
+1. number
+2. string
+3. booelean
+4. object
+5. function
+6. undefined
+
+operator dalam javascript
+1. aritmatika (+,-,*,/,%(sisa bagi)) -> () * / + -
+2. penugasan (assigment) -> =
+3. perbandingan
+4. logika
+5. string
+1-5 operator binary (membutuhkan 2 operant)
+6. kondisional ternary (membutuhkan 3 operant)
+7. typeof unary (membutuhkan 1 operant)
+
+perbandingan perbedaan == atau ===
+== kalau sama walaupun beda tipe data
+10 == "10" -> true
+=== kalau sama dan harus sama tipe datanya
+10 === 10 -> true
+10 === "10" -> false

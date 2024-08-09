@@ -1,0 +1,4 @@
+object 
+kumpulan nilai, yang memiliki nama
+
+object adalah array yang lebih sakti

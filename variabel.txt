@@ -1,0 +1,24 @@
+variabel adalah sebuah tempat atau wadah yang memiliki nama, yang 
+digunakan untuk menyimpan nilai
+
+deklarasi 
+mendaftarkan variabel dalam lingkup yang sesuai
+var <nama variabel>
+var gak boleh ada spasi;
+var tidak boleh ada angka awal
+contoh
+var x;
+var ini_juga_boleh;
+var iniJugaBoleh (camel case);
+
+inisialisasi
+menyediakan memori untuk variabel
+var x;
+
+assignment
+menetapkan nilai dari spesifik ke dalam variabel
+x = 20
+
+
+shorthand
+var nama = "fahmi", umur = 30, lulus = true;

@@ -1,0 +1,20 @@
+&&
+cek dua dua harus true jangan ada yang false
+contoh
+x = 12
+(x % 2 == 0) && (x < 10) -> false
+(x % 2 == 0) && (x < 15) -> true
+
+||
+asal salah satunya benar maka true
+contoh
+x = 12
+(x % 2 == 0) || (x < 10) -> true
+(x % 2 == 0) || (x < 15) -> true
+
+!
+membalikkan hasil boelan nya yang awalnya true jadi false
+contoh
+x = 10
+!(x < 20) -> false
+!(x < 5) -> true

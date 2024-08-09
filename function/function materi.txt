@@ -1,0 +1,26 @@
+function = sebuah sub program yang dapat "dipanggil" di bagian lain pada program
+
+- merupakan struktur dasar pembentuk dari javascript
+- disebut juga sebagai prosedur (kumpulan statement untuk melakukan tugas atau menghitung sebuah nilai)
+- untuk dapat menggunakan, kita harus "membuat" terlebih dahulu function tersebut lalu "memanggil"nya
+- termasuk kedalam firts-class object
+
+
+fungsi return kegunaan adalah untuk memberitahukan interpreter bahwa kita telah selesai mengerjakan sesuatu dan "inilah" hasilnya
+setalah sampai pada keyword return, function akan berhenti berjalan
+
+
+parameter
+variabel yang ditulis didalam kurung pada saat function dibuat, digunakan untuk menampung nilai yang dikirimkan saat function dipanggil
+
+argument 
+nilai yang dikirimkan ke parameter saat fungsi dipanggil
+
+arguments
+array yang berisi nilai yang dikirimkan saat fungsi dipanggil
+
+
+array itu adalah sebuah variabel tapi lebih sakti daripada variabel itu sendiri
+
+refactoring
+sebuah proses mengubah kodeagar menjadi lebih "baik" tanpa mengubah fungsionalitas

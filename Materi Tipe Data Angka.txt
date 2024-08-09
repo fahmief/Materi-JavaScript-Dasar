@@ -1,0 +1,26 @@
+angka tanpa dsimal 0-9
+10,21050,2131281
+akurat sampai 15 digit
+angka dengan desimal
+3.14, 0.5, 100.00
+desimal kalau di jumlahkan kadang gak akurat di javascript
+
+eksponen
+123e5 // 12300000
+123e-5 // 0.00123
+
+bilangan negatif
+-2
+bilangan oktal = 022 
+menganggap bahwa 0 bilang oktal dari 0 sampai 7
+
+0xff -> 225 = bilangan heksa desimal 16 -> 0-9-A-F
+
+angka spesial
+infinity -> 2/0 
+-infinity -> -2/0
+Nan (not a Number)-> 0/0 atau 100 / "apel"
+
+wajib diperhatikan
+javascript bisa membagi angka dengan string kalau dalamnya berupa angka
+contoh = 100 / "10" -> hasilnya 10

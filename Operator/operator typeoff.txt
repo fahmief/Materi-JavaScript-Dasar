@@ -1,0 +1,7 @@
+typeoff fungsinya untuk mengcek apakah opperandnya numerik atau booelan atau yang lainnya
+
+typeoff(opperand) cuma ada 1 opperand
+contoh
+typeoff(10) -> number
+typeoff("10") -> string
+typeoff(true)-> booelan
