@@ -1,0 +1,19 @@
+ada fungsi yaitu undefined dan null
+
+contoh undefined
+var x 
+variabel nya belum diberi isi jadi variabel x undefined
+
+contoh null
+var x = null;
+variabel x di isi oleh kata kata "null"
+
+contoh  ==
+10 == 10 -> true
+10 != 10 -> false
+10 != 15 -> true
+10 == "10" -> true
+
+contoh === 
+10 === 10 -> true
+10 == "10" -> false

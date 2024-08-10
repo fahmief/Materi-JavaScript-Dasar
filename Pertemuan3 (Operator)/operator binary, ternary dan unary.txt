@@ -1,0 +1,5 @@
+operator binary -> membutuhkan 2 operand
+
+operator ternary -> membutuhkan 3 buah operand
+
+operator unary -> membutuhkan 1 operand
