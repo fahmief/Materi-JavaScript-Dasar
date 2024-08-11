@@ -20,9 +20,14 @@ escape karakter
 \b = backspace
 \uXXXX(urutan angka unicode) = unicode
 
+string jika dibandingkan sebuah 2 string akan beda
+jadi kalau ada huruf besar dan kecil walaupun sama nama nya tetep gak akan bisa
 
 .length -> untuk mengcek jumlah karakter pada suatu kalimat
 spasi juga akan ikut di itung saat mengcek jumlah karakter
 contoh
 var nama = "fahmi"
 nama.length -> 5
+
+var nama = "fahmi m"
+nama.length -> 7

@@ -1,0 +1,15 @@
+boolean adalah pengkondisian true atau false
+
+"Fahmief" == "fahmief"
+false
+
+dengan menggunakan Boolean(nilai)
+Boolean(10 < 20) -> true
+
+bisa dimasukkan hanya 1 nilai saja
+Boolean(10) -> true
+Boolean("Fahmief") -> true
+Boolean(0) -> false
+Boolean(-1) -> true
+??
+sebuah ada di tabel truthy atau falsy
