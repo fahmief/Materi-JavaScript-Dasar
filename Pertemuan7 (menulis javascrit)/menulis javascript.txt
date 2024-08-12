@@ -1,0 +1,3 @@
+javascript internal ada di dalam html 
+sedangkan
+external ada di luar html dan file tersendiri
