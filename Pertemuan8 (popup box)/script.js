@@ -25,7 +25,7 @@
 
 alert("selamat datang..");
 var lagi = true;
-//or lagi tok juga bisa karena sudah true//
+//or lagi saja juga bisa karena sudah true// atau menggunakan konsep truty dan falsy
 while (lagi === true) {
   var nama = prompt("masukkan nama :");
   alert("halo " + nama);
